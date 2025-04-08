@@ -16,9 +16,6 @@ This project fulfills the following requirements:
     * The `main` branch is the default branch.
     * Development was conducted in a feature branch (e.g., `feat/etl-pipeline`).
     * A Pull Request (PR) has been opened from the feature branch to `main`.
-    * The PR description includes:
-        * A link to a demo video showcasing the project.
-        * Any additional project documentation or notes.
 
 2.  **Project Structure:**
 
